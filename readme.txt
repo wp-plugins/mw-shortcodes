@@ -1,5 +1,6 @@
-=== Plugin Name ===
+﻿=== Plugin Name ===
 Contributors: italodom
+Donate link: http://www.missaoweb.com.br/
 Tags: shortcode, bootstrap twitter, layout, template
 Requires at least: 3.5.1
 Tested up to: 3.5
